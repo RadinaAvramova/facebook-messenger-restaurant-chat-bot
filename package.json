@@ -18,12 +18,12 @@
     "nodejs",
     "restaurant"
   ],
-  "author": "Hary Pham",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/haryphamdev/messenger-restaurant-chat-bot/issues"
+    "url": "https://github.com/RadinaAvramova/messenger-restaurant-chat-bot/issues"
   },
-  "homepage": "https://github.com/haryphamdev/messenger-restaurant-chat-bot#readme",
+  "homepage": "https://github.com/RadinaAvramova/messenger-restaurant-chat-bot#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cron": "^1.8.2",
